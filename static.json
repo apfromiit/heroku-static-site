@@ -1,0 +1,7 @@
+{
+  "root": "web/",
+  "routes": {
+    "/home": "/index.html"
+  },
+  "https_only": true
+}
